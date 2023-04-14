@@ -1,0 +1,5 @@
+*.DS_Store
+.DS_Store
+99_mywork/
+**/*.ipynb_checkpoints/
+.vscode/settings.json
