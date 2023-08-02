@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the Texas Hold'em Poker game! This game allows you to play a simulated version of the popular poker game Texas Hold'em against computer players.
+Welcome to the Texas Hold'em Poker game! This game allows you to play a simulated version of the popular poker game Texas Hold'em against your friends.
 
 ## Game Rules
 
